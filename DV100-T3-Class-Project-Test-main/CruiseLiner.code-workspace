@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../CruiseLiner/CruiseLiner/CruiseLiner"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task3"
+	}
+}
